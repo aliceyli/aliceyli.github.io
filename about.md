@@ -1,3 +1,6 @@
-# About
+---
+layout: default
+title: About
+---
 
-Some content about me!
+Hi! I'm Alice, and this is my blog hosted with GitHub Pages. ✨
